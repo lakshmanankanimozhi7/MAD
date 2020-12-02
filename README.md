@@ -13,8 +13,7 @@
 2. Provide path of the text file in src/helpers/read_and_write_text_file_helper.py
 
 ## Automation Framework
-1. git@gitlab.builds.qwil.co:preethika/api-automation-repo.git
-2. Framework Directory Structure:
+1. Framework Directory Structure:
 
 ```
 src
